@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Organization-Take%20It%20Smart%20Pvt%20Ltd-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/University-VTU-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Duration-7%20Weeks-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Duration-8%20Weeks-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Ongoing-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -34,7 +34,7 @@ This internship reflects my effort to bridge **academic learning** with **real-w
 | **Organization** | Take It Smart Pvt Ltd, Bengaluru |
 | **Program** | VTU Internship |
 | **Role** | Data Science Intern |
-| **Duration** | 7 Weeks |
+| **Duration** | 8 Weeks |
 | **Core Technologies** | Python, SQL, Pandas, Seaborn, Scikit-learn, Dash, Power BI |
 | **Project Type** | Weekly Assignments + Real-World Data Projects |
 
@@ -270,6 +270,88 @@ This internship covers a **step-by-step progression through core Data Science co
 
 ---
 
+## 📁 Week 08 — Machine Learning Practice & Model Building
+
+### 🔍 Focus Areas
+- Machine Learning Workflow
+- Data Collection & Preparation
+- Model Training
+- Prediction & Evaluation
+
+### ✅ Tasks Completed
+
+#### 📘 Day 35 — Machine Learning Foundations
+- Revised the **basic concepts of Machine Learning**
+- Understood the difference between:
+  - Supervised Learning
+  - Unsupervised Learning
+  - Regression
+  - Classification
+- Explored the **ML project lifecycle**
+- Practiced identifying:
+  - Features
+  - Target variables
+  - Training and testing data
+
+#### 📘 Day 36 — Data Collection & Dataset Loading
+- Worked on collecting and loading datasets using:
+  - `pandas`
+  - `seaborn`
+  - `sklearn.datasets`
+- Loaded datasets from:
+  - CSV files
+  - Excel files
+  - Built-in datasets
+- Understood how to prepare raw data for analysis and model building
+
+#### 📘 Day 37 — Data Preparation & Inspection
+- Performed initial data inspection using:
+  - `head()`
+  - `tail()`
+  - `info()`
+  - `describe()`
+- Explored dataset structure and feature details
+- Identified missing values and data types
+- Practiced preparing datasets for machine learning tasks
+
+#### 📘 Day 38 — Regression Concepts & Variable Understanding
+- Learned the concept of:
+  - Independent Variable
+  - Dependent Variable
+- Practiced real-world examples of regression problems such as:
+  - House price prediction
+  - Student marks prediction
+  - Salary prediction
+- Understood how regression is used to predict continuous values
+
+#### 📘 Day 39 — Model Building Practice
+- Started implementing **basic machine learning models**
+- Understood the steps involved in:
+  - Splitting data
+  - Training the model
+  - Making predictions
+- Practiced the use of:
+  - `train_test_split()`
+  - Model fitting
+  - Prediction functions
+
+#### 📘 Day 40 — Hands-on ML Dataset Workflow
+- Practiced a complete mini workflow for machine learning:
+  - Data collection
+  - Data loading
+  - Data preparation
+  - Dataset exploration
+- Worked with sample datasets such as:
+  - Iris dataset
+  - Titanic dataset
+  - Customer dataset
+- Improved understanding of how real ML datasets are handled before model training
+
+### 🛠 Skills Used
+`Python` `Pandas` `Seaborn` `Scikit-learn` `Data Collection` `Data Preparation` `Regression Basics` `Dataset Exploration` `Machine Learning Workflow`
+
+---
+
 ## 🧠 Skills Demonstrated
 
 | Domain | Skills |
@@ -310,4 +392,6 @@ Internship-Tasks/
 ├── WEEK_04/        # Supervised Machine Learning
 ├── WEEK_05/        # Data Analysis Projects & SQL Foundations
 ├── WEEK_06/        # Advanced ML & Model Optimization
-└── WEEK_07/        # Capstone — Pizza Sales Analytics Dashboard
+├── WEEK_07/        # Capstone — Pizza Sales Analytics Dashboard
+└── WEEK_08/        # Machine Learning Practice & Model Building
+```
