@@ -458,7 +458,7 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 
 ---
 
-## 📊 Progress Snapshot
+## 📊 Progress 
 
 | Week | Topic | Status |
 |------|-------|--------|
@@ -485,7 +485,7 @@ Writing the complete pipeline 5 times reinforced muscle memory for the full skle
 
 If you're a fellow learner, a recruiter, or just someone who loves data — let's talk!
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-181717?style=for-the-badge&logo=github)](https://github.com/Keertiraj2004)
+[![GitHub](https://img.shields.io/badge/GitHub-KeertirajKamble-181717?style=for-the-badge&logo=github)](https://github.com/Keertiraj2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keertiraj-kamble/)
 [![Gmail](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/)
 
