@@ -109,7 +109,7 @@ graph LR
 
 <details>
 <summary><b>🔵 Week 03 — Exploratory Data Analysis & Visualization</b></summary>
-
+    
 <br/>
 
 > *"A good visualization tells a story that a thousand rows can't."*
