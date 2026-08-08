@@ -35,7 +35,7 @@ Each week covers a new concept — from Python basics and data cleaning to machi
 
 ---
 
-## 🗺️ The 10-Week Learning Map  
+## 🗺️ The 10-Week Learning Map
 
 ```mermaid
 graph LR
