@@ -29,7 +29,7 @@ Hi, I'm **Keertiraj Kamble**, a Data Science student from **Visvesvaraya Technol
 
 This repository contains all the tasks and mini-projects I completed during my **10-week Data Science internship** at **Take It Smart Pvt Ltd, Bengaluru**.
 
-Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, and a full capstone dashboard.
+Each week covers a new concept — from Python basics and data cleaning to machine learning, SQL, and a full capstone dashboard. 
 
 <br clear="right"/>
 
