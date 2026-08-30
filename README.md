@@ -167,7 +167,7 @@ graph LR
 > *"A model that can't generalize is just expensive memorization."*
 
 **What I did:**
-- 🔵 Applied **K-Means Clustering** for unsupervised segmentation
+- 🔵 Applied **K-Means Clustering** for unsupervised segmentation 
 - 📉 Used **PCA** to reduce dimensionality while preserving variance
 - 🔧 Tuned models with **GridSearchCV** for optimal hyperparameters
 - 🔁 Validated performance using **K-Fold Cross Validation**
