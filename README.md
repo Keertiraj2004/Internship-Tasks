@@ -61,7 +61,7 @@ graph LR
     style J fill:#0f3460,color:#fff,stroke:#FF6B6B,stroke-width:3px
 ```
 
----
+---  
 
 ## 📅 Weekly Breakdown 
 
