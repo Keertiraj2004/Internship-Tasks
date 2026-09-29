@@ -159,7 +159,7 @@ graph LR
 
 ---
 
-<details>
+<details>   
 <summary><b>⚙️ Week 06 — Advanced ML & Model Optimization</b></summary>
 
 <br/>
