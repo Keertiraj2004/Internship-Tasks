@@ -63,7 +63,7 @@ graph LR
 
 ---  
 
-## 📅 Weekly Breakdown 
+## 📅 Weekly Breakdown  
 
 <details>
 <summary><b>🟢 Week 01 — Python & Data Science Foundations</b></summary>
